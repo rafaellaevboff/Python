@@ -7,7 +7,7 @@ print(random.choice(sequencia))
 
 # Bibliotecas criadas por colegas da comunidade:
 import emoji
-print(emoji.emojize('Python is :thumbs_up:'))
+print(emoji.emojize('Python é :thumbs_up:'))
 
 # Link visualizar emojis: https://carpedm20.github.io/emoji/
 # Link Biblioteca no site do Python: https://pypi.org/project/emoji/
