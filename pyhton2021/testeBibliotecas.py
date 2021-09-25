@@ -1,7 +1,9 @@
 # Bibliotecas padrão do Python:
 # Documentação no site oficial: https://docs.python.org/pt-br/3.8/library/index.html
+#vai importar todas as coisas da biblioteca
+
 import random
-sequencia = 1,2,3,4,5,6,7,8,9
+sequencia = 1, 2, 3, 4, 5, 6, 7, 8, 9
 print(random.choice(sequencia))
 
 
